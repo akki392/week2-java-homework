@@ -1,0 +1,23 @@
+
+i
+java:S1192"LDefine a constant instead of duplicating this literal "calculator_" 4 times.(½¸‘‘8Ûòô‘¶1
+7
+java:S1220""Move this file to a named package.8Ûòô‘¶1
+L	java:S106	"+Replace this use of System.out by a logger.(øÛÅŠşÿÿÿÿ8ìòô‘¶1
+F	java:S106"+Replace this use of System.out by a logger.(Üº«W8ìòô‘¶1
+L	java:S106"+Replace this use of System.out by a logger.(ïÕÉÖùÿÿÿÿ8õòô‘¶1
+L	java:S106"+Replace this use of System.out by a logger.(´¾›ìûÿÿÿÿ8õòô‘¶1
+L	java:S106"+Replace this use of System.out by a logger.(ïÕÉÖùÿÿÿÿ8õòô‘¶1
+L	java:S106"+Replace this use of System.out by a logger.(èÄç¥ûÿÿÿÿ8õòô‘¶1
+_
+java:S1854 "=Remove this useless assignment to local variable "question5".(òí×Úıÿÿÿÿ8õòô‘¶1
+L	java:S106"+Replace this use of System.out by a logger.(ïÕÉÖùÿÿÿÿ8õòô‘¶1
+P
+java:S1481 ".Remove this unused "question5" local variable.(òí×Úıÿÿÿÿ8õòô‘¶1
+G	java:S106!"+Replace this use of System.out by a logger.(ö÷ö¬8õòô‘¶1
+_
+java:S1854'"=Remove this useless assignment to local variable "question5".(òí×Úıÿÿÿÿ8üòô‘¶1
+L	java:S106&"+Replace this use of System.out by a logger.(ïÕÉÖùÿÿÿÿ8üòô‘¶1
+P
+java:S1481'".Remove this unused "question5" local variable.(òí×Úıÿÿÿÿ8üòô‘¶1
+L	java:S106("+Replace this use of System.out by a logger.(Ã²Êûÿÿÿÿ8üòô‘¶1

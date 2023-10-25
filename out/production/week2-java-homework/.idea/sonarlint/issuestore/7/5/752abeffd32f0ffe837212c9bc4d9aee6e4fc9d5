@@ -1,0 +1,7 @@
+
+7
+java:S1220""Move this file to a named package.8À’Úâµ1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8×¨¢äµ1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ“’Ãýÿÿÿÿ8×¨¢äµ1
+]
+java:S1128";Remove this unused import 'jdk.dynalink.beans.StaticClass'.(—ýÙ›üÿÿÿÿ8×¨¢äµ1
